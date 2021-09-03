@@ -1,3 +1,5 @@
+import ReactSVG from 'react-svg'
+
 var content0 = document.getElementById("model0");
 var button0 = document.getElementById("show-more0");
 
